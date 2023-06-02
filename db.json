@@ -1,0 +1,62 @@
+{
+  "user": [
+    {
+      "id": "peter99",
+      "name": "Pedro Santos",
+      "password": "$Teste123",
+      "email": "pedro@outlook.com",
+      "total": 10000
+    },
+    {
+      "id": "rui88",
+      "name": "Rui Dinis",
+      "password": "$Ups1234",
+      "email": "rui@outlook.com",
+      "total": 10000
+    }
+  ],
+  "transaction": [
+    {
+      "id": 1,
+      "username": "peter99",
+      "description": "peter99 made a deposit.",
+      "amount": 10
+    },
+    {
+      "id": 2,
+      "username": "peter99",
+      "description": "peter99 made a deposit.",
+      "amount": 10
+    },
+    {
+      "id": 3,
+      "username": "peter99",
+      "description": "peter99 made a withdrawal.",
+      "amount": 20
+    },
+    {
+      "id": 4,
+      "username": "peter99",
+      "description": "peter99 made a withdrawal.",
+      "amount": 20
+    },
+    {
+      "id": 5,
+      "username": "peter99",
+      "description": "peter99 made a withdrawal.",
+      "amount": 30
+    },
+    {
+      "id": 6,
+      "username": "peter99",
+      "description": "peter99 made a deposit.",
+      "amount": 50
+    },
+    {
+      "id": 7,
+      "username": "peter99",
+      "description": "peter99 made a deposit.",
+      "amount": 10
+    }
+  ]
+}
