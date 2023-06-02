@@ -4,11 +4,11 @@ This is a small home banking project that includes a login and a registration pa
 
 ## Steps
 
-Open terminal and run json-server --watch db.json.
-Open another terminal and run ng serve. 
-Navigate to `http://localhost:4200/`.
+Open terminal and run json-server --watch db.json.<br />
+Open another terminal and run ng serve. <br />
+Navigate to `http://localhost:4200/`.<br />
 
 ## Mandatory technologies
 
-https://angular.io/
-https://material.angular.io/
+https://angular.io/<br />
+https://material.angular.io/<br />
